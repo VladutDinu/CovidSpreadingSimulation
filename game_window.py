@@ -59,7 +59,7 @@ wn=turtle.Screen()
 wn.tracer(1, 1)
 wn.screensize(480,640)
 wn.bgcolor('black')
-wn.title('pula')
+wn.title('Python Covid Spreading Simulation')
 
 
 arr={1:[300,300], 2:[-300,300], 3:[300, -300], 4:[-300,-300]}
